@@ -139,4 +139,5 @@ df2
 <img width="782" alt="image" src="https://user-images.githubusercontent.com/87276633/235471491-2154414b-2bed-43bf-988a-45084956ce77.png">
 <img width="890" alt="image" src="https://user-images.githubusercontent.com/87276633/235471521-8041e334-5675-47bb-81e1-a39c49bea60e.png">
 
-
+# RESULT:
+Thus the feature generation process is performed and saved in the given data.
