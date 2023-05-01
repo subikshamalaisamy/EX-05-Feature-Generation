@@ -124,10 +124,17 @@ df2
 # OUPUT
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/87276633/233913779-e317e78a-63ad-4786-845e-c969a88d61b1.png">
 <img width="344" alt="image" src="https://user-images.githubusercontent.com/87276633/233913892-55f680d7-8ef7-4932-abdd-d157b1be367b.png">
+<img width="258" alt="image" src="https://user-images.githubusercontent.com/87276633/235468376-ba70d61b-6b40-4e8b-b452-a352e03e99ba.png">
+
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/87276633/233914018-249d2d5c-2b8a-4b8c-8e41-393b75a7afe9.png">
-<img width="407" alt="image" src="https://user-images.githubusercontent.com/87276633/233914196-65395c0c-05fb-49f8-a887-2a0c67ce180a.png">
+
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/87276633/233914146-614eea7c-fdff-470c-8959-7788271983f9.png">
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/87276633/233914253-d83ada63-1611-4a53-b9bb-f5bb89219ed4.png">
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/87276633/233914297-ccd471ce-9361-44b6-aa2a-24692579a67d.png">
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/87276633/233914510-68d5293d-3900-4d9b-b37c-020753c96fa9.png">
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/87276633/235468730-fb2d28f4-0528-45f6-a0f1-545fe280ceae.png">
+<img width="289" alt="image" src="https://user-images.githubusercontent.com/87276633/235468874-9ead0fa2-996b-4664-8333-f18abd55382b.png">
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/87276633/235469624-11be1b82-7cef-49cb-b845-1a2be41f179e.png">
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/87276633/235469660-1d0224ff-c0c6-41b7-9b9a-d8c2568f8a94.png">
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/87276633/235469742-f883b1b3-0ae4-4b0f-9e9b-c5abd11b40cc.png">
+
 
